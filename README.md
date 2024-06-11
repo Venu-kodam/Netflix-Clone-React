@@ -1,8 +1,19 @@
-# React + Vite
+# Netflix Clone
+🚀 Excited to share my latest project, "NETFLIX CLONE"!! built entirely with ReactJS! .
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🛠 Tech Stack:
+✅ React JS: Building a robust and dynamic user interface.
+✅ Axios: Handling asynchronous Api requests with ease.
+✅ React Router: Implementing smooth navigation for a seamless user 
+experience.
+✅ useState and useEffect: Efficiently managing state and side effects.
+✅ Bootstrap: Styling for a modern and responsive design.
+✅ Error Handling: Providing informative error messages for better user interaction.
 
-Currently, two official plugins are available:
+Topics Explored:
+🔹 Styling components with Bootstrap for a polished look
+🔹 Error handling strategies for a seamless user experience
+🔹 Best practices for efficient state management in React
+🔹 Optimizing performance with useEffect dependencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Live Link: https://venu-kodam.github.io/Netflix-Clone-React/
