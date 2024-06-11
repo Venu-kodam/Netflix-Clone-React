@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #000;
+}
+.navbar>.container-fluid>.navbar-nav{
+    background-color: transparent;
+}
+.bg-black{
+    background-color: #000;
+    color: #fff !important;
+}
+
+.navbar.bg-transparent{
+    background-color: transparent !important;
+    color: #fffffff3 !important;
+}
+
+.nav-item>.nav-link{
+    color: #fff !important;
+}
+.nav-item>.bi{
+    color: #fff !important;
+}
+/* row-styling */
+.transparent>.arrow-left{
+    color: #fff;
+    width: 50px;
+    height: 100px;
+}
+.transparent>.arrow-right{
+    color: #fff;
+    width: 50px;
+    height: 100px;
+}
+.transparent{
+    background: transparent;
+    color: #fff;
+    border: 0;
+    outline: none;
+    cursor: pointer;
+}
+.transparent:hover .arrow-left{
+    background-color: rgba(240, 248, 255, 0.162);
+    visibility: visible;
+}
+.transparent:hover .arrow-right{
+    background-color: rgba(240, 248, 255, 0.162);
+    visibility: visible;
+}
+.arrow-left,.arrow-right{
+    background-color: #fff !important;
+    visibility: hidden;
+}
+.banner{
+    width: 100%;
+    background-position: center center;
+    background-size: cover;
+}
+#info-container{
+    position: relative;
+}
+.info{
+    position: absolute;
+    top: 250px;
+    background: transparent !important;
+}
+.title{
+    width: 400px;
+    height: 180px;
+    max-width: 50%;
+    background-color: transparent;
+}
+.info h2{
+    line-height: 1.1;
+    margin: 0;
+    margin-bottom: 16px;
+    color: #fff;
+    font-size: 80px;
+    background: transparent;
+}
+p{
+    max-width: 50%;
+}
+p,.d-grid{
+    margin: 60px 0;
+    color: #fff;
+    background: transparent;
+}
+.mx-1{
+    border-radius: 10px;
+    cursor: pointer;
+}
+.mx-1:hover{
+    transform: scale(1.1);
+    transition: 0.5s;    
+}
+button{
+    border: 0;
+    outline: none;
+    background-color: #fff;
+    border-radius: 10px;
+}
+i{
+    margin-top: 5px;
+    font-size: 25px;
+    background: transparent;
+}
+
